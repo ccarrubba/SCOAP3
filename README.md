@@ -1,4 +1,4 @@
-[![Travis](http://img.shields.io/travis/ccarrubba/SCOAP3/master.png)](https://travis-ci.org/ccarrubba/SCOAP3)
+[![Travis](http://img.shields.io/travis/ccarrubba/SCOAP3/master.png?branch=master)](https://travis-ci.org/ccarrubba/SCOAP3)
 
 
 
