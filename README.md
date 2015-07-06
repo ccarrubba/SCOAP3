@@ -1,8 +1,13 @@
+<<<<<<< HEAD
 [![Travis](http://img.shields.io/travis/ccarrubba/SCOAP3/master.png)](https://travis-ci.org/ccarrubba/SCOAP3)
 
+=======
+[![Travis](http://img.shields.io/travis/ccarrubba/SCOAP3/master.png?branch=master)](https://travis-ci.org/ccarrubba/SCOAP3)
+>>>>>>> e4ae3379cff46d3fd96686f0b066f91516181392
 
 
-#scoap3-harvester-api
+
+#scoap3
 
 
 
