@@ -2,7 +2,7 @@
 
 
 
-#scoap3-harvester-api
+#scoap3
 
 
 
